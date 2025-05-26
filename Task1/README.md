@@ -16,7 +16,6 @@ ToDoList/
 │   ├── screens/
 │   ├── widgets/
 ├── assets/
-│   ├── images/
 ├── pubspec.yaml
 └── README.md
 ```
