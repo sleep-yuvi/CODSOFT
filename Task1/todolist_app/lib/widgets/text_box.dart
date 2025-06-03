@@ -28,7 +28,7 @@ class StandardTextInputField extends StatelessWidget {
             borderSide: BorderSide(width: 2.0, color: main.accentHighlight)),
         hintText: placeholderText,
         hintStyle: Theme.of(context).textTheme.bodyLarge?.copyWith(color: main.auxiliaryTextTone),
-        contentPadding: main.getFormElementContentPadding(context), // Corrected call
+        contentPadding: main.getFormElementContentPadding(context), 
       ),
     );
   }
